@@ -1,6 +1,6 @@
 # SYNGAP1 Variant Viewer
 
-An interactive R Shiny application for visualizing SYNGAP1 genetic variants using the Integrative Genomics Viewer (IGV). This tool enables researchers to explore patient variant data on a genome browser with dynamic filtering by available research resources.
+An interactive R Shiny application for visualizing SYNGAP1 genetic variants using the Integrative Genomics Viewer (IGV). This tool enables researchers to explore variant data on a genome browser with dynamic filtering by available research resources.
 
 Developed for **[CURE SYNGAP1](https://curesyngap1.org/)** - a global group of families committed to accelerating the science to cure SYNGAP1 & to supporting each other.
 
@@ -36,7 +36,7 @@ The SYNGAP1 Variant Viewer is a web-based application designed to help researche
 - **Interactive exploration** with color-coded variant types
 - **Coordinate conversion** from cDNA (transcript-relative) to genomic positions (genome-relative)
 
-The application currently displays **153 patient variants** tracked through Citizen Health and partner research organizations.
+The application currently displays **153 variants** tracked through Citizen Health and partner research organizations.
 
 ### Key Technologies
 
@@ -57,7 +57,7 @@ The application currently displays **153 patient variants** tracked through Citi
 - ✅ **Color-Coded Display**: Each variant type has a distinct color for easy identification
 - ✅ **Smart Filtering**: Filter variants by available research resources
 - ✅ **Offline Capability**: Works without internet after initial setup (via caching)
-- ✅ **Patient Metadata**: Display variant-associated patient counts and research asset availability
+- ✅ **Variant Metadata**: Display variant-associated variant counts and research asset availability
 
 ### Filtering Options
 
@@ -231,7 +231,7 @@ The app follows a three-layer architecture:
 **4. GFF3 Track Generation**
 - Converts variant data to GFF3 format
 - IGV-compatible genomic feature format
-- Includes attributes: ID, Name, Description, Patient count
+- Includes attributes: ID, Name, Description, variant count
 
 ### Data Flow
 
@@ -295,7 +295,7 @@ syngap1-variant-viewer/
 - Run once during initial setup
 
 **updatedCitizen191.csv**
-- Patient variant data from Citizen Health
+- Variant data from Citizen Health
 - 153 variants across 33 data columns
 - Includes: variant notation, type, patient counts, research assets
 - **Required** for application to function
